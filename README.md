@@ -1,5 +1,6 @@
 # Trabalhando com Componentes em React
 ![componentes-react](https://user-images.githubusercontent.com/72028645/131524544-e91e5b21-ce97-4a57-91ef-568cd72f5040.png)
+
 ## Pré-requisitos
 - Conhecimento em HTML, CSS e JavaScript
 - Instalar o [Node.js](https://nodejs.org/pt-br/download/) LTS
