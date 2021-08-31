@@ -8,12 +8,10 @@
 Para criar o projeto:
 >npx create-react-app react-dio
 
-Após clonar o projeto:
+Execute esse comando para o projeto funcionar:
 >npm i 
 
-Logo em seguida:
->npm install 
-
 ## Entendendo o código 
-`index.html`: todos os componentes vão ser renderizados nesse arquivo dentro do root
-`App.js`: os componentes ficam dentro de `<>`
+`index.html`: todos os componentes vão ser renderizados nesse arquivo dentro do root <br> 
+`App.js`: os componentes ficam dentro de `<>`, mostra a utilização dos componentes <br>
+`index.js`: criação dos componentes <br>
