@@ -4,6 +4,9 @@
 - Instalar o [Node.js](https://nodejs.org/pt-br/download/) LTS
 - IDE
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Comandos
 Para criar o projeto:
 >npx create-react-app react-componentes
